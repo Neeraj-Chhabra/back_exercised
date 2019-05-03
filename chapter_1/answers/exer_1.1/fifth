@@ -1,0 +1,7 @@
+bash-3.2$ python fifth.py
+  File "fifth.py", line 3
+    c = a b
+          ^
+SyntaxError: invalid syntax
+bash-3.2$ 
+

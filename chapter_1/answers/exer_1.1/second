@@ -1,0 +1,6 @@
+bash-3.2$ python second.py
+  File "second.py", line 1
+    print("what is the error?)
+                             ^
+SyntaxError: EOL while scanning string literal
+bash-3.2$ 

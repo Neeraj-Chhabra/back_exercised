@@ -1,0 +1,6 @@
+bash-3.2$ python first.py
+  File "first.py", line 2
+    
+                      ^
+SyntaxError: invalid syntax
+bash-3.2$ 

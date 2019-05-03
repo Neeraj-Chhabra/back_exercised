@@ -1,0 +1,7 @@
+cover_cost=float(input("cover cost   ="))
+discount=float(input("discount    ="))
+number_of_books=float(input("number of books   ="))
+ship_1_book=float(input("enter ship cost for first book   ="))
+ship_rest_books_cost=float(input("cost of shipping for rest of books in dollars   ="))
+wholesale_cost=( ( ( ( ( 100 - discount ) / 100 ) ) * (cover_cost*number_of_books) ) + ship_1_book + (( number_of_books - 1 ) * ship_rest_books_cost ))
+print("wholesale cost is", wholesale_cost)

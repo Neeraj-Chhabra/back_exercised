@@ -1,0 +1,9 @@
+bash-3.2$ python3 third.py
+distance travelled in first run1
+speed for first run8.15
+distance travelled in second run3
+speed for second run7.12
+total time =  0.544047701109809
+time in minutes  =   32.64286206658854
+time rached minutes in   = 24.64286206658852
+time_reached 7 : 24

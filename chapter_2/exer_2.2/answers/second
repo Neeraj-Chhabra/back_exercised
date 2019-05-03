@@ -1,0 +1,9 @@
+bash-3.2$ python3 second.py 
+cover cost   =24.95
+discount    =40
+number of books   =60
+enter ship cost for first book   =3
+cost of shipping for rest of books in dollars   =0.75
+wholesale cost is 945.4499999999999
+bash-3.2$ 
+

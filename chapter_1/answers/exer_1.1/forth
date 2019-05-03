@@ -1,0 +1,6 @@
+bash-3.2$ python3 forth.py 
+  File "forth.py", line 1
+    print(2+02)
+             ^
+SyntaxError: invalid token
+bash-3.2$ 
